@@ -266,6 +266,10 @@ main h1 {
   margin-bottom: 30px;
 }
 
+.card .cardImg {
+  font-size: 0;
+}
+
 .card .cardImg img {
   width: 100%;
 }
